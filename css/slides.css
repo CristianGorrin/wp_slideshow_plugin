@@ -1,0 +1,18 @@
+﻿slidesjs-navigation {
+    font-size: 1em;
+    display: inline;
+}
+
+.slidesjs-next {
+    margin-left: 1em;
+}
+
+.slidesjs-pagination {
+    display: inline;
+    float: right;
+}
+
+.slidesjs-pagination-item {
+    display: inline;
+}
+
